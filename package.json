@@ -1,0 +1,14 @@
+{
+  "name": "olitut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "olitutunator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oliminator",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
